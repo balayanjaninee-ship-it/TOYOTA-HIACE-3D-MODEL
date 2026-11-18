@@ -1,0 +1,6 @@
+{
+  "name": "Toyota HiAce H200 — 3D Four-View Studio",
+  "description": "Real-time interactive 3D studio model and synchronized four-view orthographic showcase of the Toyota HiAce H200.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
